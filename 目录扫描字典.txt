@@ -1,6 +1,7 @@
 /admin/
 /Admin/
 /api/
+/API/
 /nacos/
 /WebReport/
 /geoserver/
@@ -391,6 +392,7 @@
 /userConfig/
 /gpt/
 /office/
+/Office/
 /webrtc/
 /m/
 /xxl-job-admin/
@@ -443,6 +445,14 @@
 /backups/
 /asp/
 /;/
+/dist/
+/aspx/
+/net/
+/export/
+/openapi/
+/weixin/
+/wx/
+/databases/
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -1016,6 +1026,8 @@
 /service?Wsdl
 /design
 /demo
+/main.asp
+/main.aspx
 /users
 /services/services
 /v1
