@@ -496,6 +496,13 @@
 /xml/
 /zp/
 /hr/
+/oss/
+/sso/
+/app-api/
+/org/
+/saml/
+/teams/
+/datasources/
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -976,6 +983,7 @@
 /swagger
 /swagger.yaml
 /api-docs
+/api-doc
 /v3/api-docs
 /api.html
 /swagger-ui
@@ -1173,3 +1181,6 @@
 /user/getInfo
 /getInfo
 /device/config
+/datasources
+/stats
+/settings
