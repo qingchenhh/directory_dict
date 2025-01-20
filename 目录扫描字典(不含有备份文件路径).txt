@@ -503,6 +503,9 @@
 /saml/
 /teams/
 /datasources/
+/Grafana/
+/grafana/
+/web-api/
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -1184,3 +1187,13 @@
 /datasources
 /stats
 /settings
+/usersetting
+/get_config
+/register
+/auth-redirect
+/bind
+/getRouters
+/data/getProcess
+/dict
+/role
+/user/profile
