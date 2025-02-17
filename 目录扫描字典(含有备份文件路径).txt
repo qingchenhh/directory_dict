@@ -506,6 +506,7 @@
 /Grafana/
 /grafana/
 /web-api/
+/rights/
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -981,6 +982,7 @@
 /modules.php
 /installer.php
 /license.txt
+/upload.html
 /v2/api-docs
 /swagger-ui.html
 /swagger
@@ -1054,6 +1056,7 @@
 /actuator/hystrix.stream
 /api/actuator
 /redirect.html
+/resetPwd.html
 /nginx_status
 /debug/pprof
 /manifest.json
@@ -1197,6 +1200,8 @@
 /dict
 /role
 /user/profile
+/api/v1/GetUserInfo
+/api/GetUserInfo
 /www.zip
 /temp.zip
 /wwwroot.zip

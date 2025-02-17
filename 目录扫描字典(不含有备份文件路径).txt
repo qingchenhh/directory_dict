@@ -506,6 +506,7 @@
 /Grafana/
 /grafana/
 /web-api/
+/rights/
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -956,6 +957,7 @@
 /ver.php
 /vote.php
 /uploads/include/dialog/select_soft_post.php
+/upload.html
 /1.php
 /admini.php
 /comm.php
@@ -1054,6 +1056,7 @@
 /actuator/hystrix.stream
 /api/actuator
 /redirect.html
+/resetPwd.html
 /nginx_status
 /debug/pprof
 /manifest.json
@@ -1141,7 +1144,9 @@
 /api/v1/userlist
 /api/userlist
 /api/v1/getUserInfo
+/api/v1/GetUserInfo
 /api/getUserInfo
+/api/GetUserInfo
 /getUserInfo
 /listuser
 /api/v1/settings
