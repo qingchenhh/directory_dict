@@ -308,7 +308,6 @@
 /posts/
 /assets/
 /_layouts/
-/1033/
 /NASApp/
 /GXApp/
 /bea_wls_cluster_internal/
@@ -507,6 +506,17 @@
 /grafana/
 /web-api/
 /rights/
+/runtime/
+/runtime/log/
+/common/aaaaaaaaaa
+/sys/aaaaaaaa/aaaaaaa
+/api/aaaaaaa/aaaaaaaaa
+/system/aaaaaaaa/aaaaaaaa
+/app-api/aaaaaaaa
+/a/sys/aaaaaaa
+/rest/aaaaaaa/aaaaaaaaa
+/system/aaaaaaaaa
+/menu/aaaaaaaa
 /Utility/UEditor/controller.ashx?action=catchimage
 /../../../../../../../../etc/passwd
 /index/user/register.html
@@ -870,7 +880,7 @@
 /wp-config.bak
 /wp-config.inc
 /wp-config.old
-/wp-config.php~/
+/wp-config.php~
 /reg.php
 /tag.php
 /admin.php
@@ -927,6 +937,7 @@
 /savemessage.php
 /saveup.php
 /search.php
+/process.php
 /setup.php
 /show.php
 /shownews.php
@@ -982,6 +993,8 @@
 /form.php
 /modules.php
 /installer.php
+/Trace.axd
+/dbconf.php~
 /license.txt
 /v2/api-docs
 /swagger-ui.html
@@ -1086,6 +1099,7 @@
 /demo
 /main.asp
 /main.aspx
+/config.properties
 /Setting.xml
 /trace.axd
 /%2e%2e;/test
@@ -1202,3 +1216,8 @@
 /dict
 /role
 /user/profile
+/menu
+/menu/list
+/menu/tree
+/process
+/sys/commont/upload
